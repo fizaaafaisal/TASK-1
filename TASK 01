@@ -1,3 +1,4 @@
+#
 S=int(input("enter your salary:"))
 YOS=int(input("enter your year:"))
 if YOS>5:
