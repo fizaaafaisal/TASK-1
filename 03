@@ -1,0 +1,6 @@
+m=int(input("enter a m value :"))
+n=int(input("enter a n value :"))
+if m>n:
+    print("m is greater")
+else:
+    print("n is greater")
